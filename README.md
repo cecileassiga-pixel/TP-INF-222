@@ -40,6 +40,4 @@ package.json
 Endpoints disponibles
 
 POST/api/articles
-```bash
-git clone URL_DU_REPOSITORY
-cd blog-api
+
